@@ -1,0 +1,7 @@
+[
+  {"user_id": 1, "role_id": 1, "create_time": "2024-01-01 00:00:00"},
+  {"user_id": 2, "role_id": 2, "create_time": "2024-01-01 00:00:00"},
+  {"user_id": 15, "role_id": 4, "create_time": "2024-01-01 00:00:00"},
+  {"user_id": 17, "role_id": 5, "create_time": "2024-01-01 00:00:00"},
+  {"user_id": 18, "role_id": 5, "create_time": "2024-01-01 00:00:00"}
+]

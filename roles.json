@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "超级管理员", "code": "super_admin", "description": "系统最高权限", "create_time": "2024-01-01 00:00:00"},
+  {"id": 2, "name": "部门经理", "code": "dept_manager", "description": "部门管理权限", "create_time": "2024-01-01 00:00:00"},
+  {"id": 3, "name": "普通员工", "code": "employee", "description": "普通员工权限", "create_time": "2024-01-01 00:00:00"},
+  {"id": 4, "name": "HR专员", "code": "hr", "description": "人事管理权限", "create_time": "2024-01-01 00:00:00"},
+  {"id": 5, "name": "财务", "code": "finance", "description": "财务管理权限", "create_time": "2024-01-01 00:00:00"}
+]
